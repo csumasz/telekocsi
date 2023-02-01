@@ -1,5 +1,5 @@
 # telekocsi
-This is a developer exam task
+Ez egy szovtverfejlesztő képzés vizsgafeladata.
 
 1. feladat – Programozás Összesen: 60 pont
 A feladat során egy telekocsi szolgáltatást végző cég hirdetőinek és utasainak párosítását 
