@@ -1,0 +1,10 @@
+F82953: Sajnos nem sikerült autót találni
+C44366: Rendszám: YL-50-15, Telefonszám: 559731734
+C63068: Rendszám: XY-64-28, Telefonszám: 312734682
+Y47760: Sajnos nem sikerült autót találni
+M64723: Sajnos nem sikerült autót találni
+F82964: Sajnos nem sikerült autót találni
+C45466: Rendszám: YL-20-15, Telefonszám: 559731734
+C67868: Rendszám: XY-64-28, Telefonszám: 312734682
+Y47550: Sajnos nem sikerült autót találni
+M64123: Sajnos nem sikerült autót találni
